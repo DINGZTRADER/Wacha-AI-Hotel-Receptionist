@@ -1,0 +1,7 @@
+{
+  "name": "Wacha Hotel AI Receptionist",
+  "description": "An automated AI receptionist dashboard for hotel management. Features real-time voice interaction, booking management, calendar views, and automated communication handling via Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
